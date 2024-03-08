@@ -1,0 +1,16 @@
+Observations
+
+1. The average amount deposited transacted is 5492.
+
+2. The average amount deposited per user is 114.
+
+3. The average number of games per user is 355. 
+
+4. Top 50 Players on the basis of User Id: 634,672,99,212,566,740,421,30,222,369,352,587,365,920,162,
+   415,238,786,2,992,538,978,208,915,989,182,909,678,78,93,601,200,344,950,681,515,294,675,663,438,612,
+   547,245,417,856,949,599,16,193,202
+
+5. Bonus should be awarded to the top 50 players based on their number of games since more number of games
+   means more in-app purchases and in-game ads through which the company makes its money.
+
+   
